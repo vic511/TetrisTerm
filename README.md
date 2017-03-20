@@ -20,6 +20,12 @@ Options:
    -w --without-next    Hide next tetrimino (def: false)
    -d --debug           Debug mode (def: false)
 ```
+## Requirements
+
+This project requires `aplay` to be installed on your system, as well as the `ncurses` lib dependencies.
+```
+sudo apt-get install alsa-utils ncurses-base
+```
 
 ## Create your own tetriminos
 
