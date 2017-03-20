@@ -1,0 +1,16 @@
+*
+!src/
+!src/**/
+!src/**/*.c
+!include/
+!include/**/
+!include/**/*.h
+!tetriminos/
+!tetriminos/*.tetrimino
+!sounds/
+!sounds/**/*.wav
+!Makefile
+!highscore.png
+!.gitignore
+*~
+*#*
